@@ -1,0 +1,11 @@
+Some observations on the Py City Schools data frames:
+
+Looking at the schools ranked by %Passing Overall, the top eight performers were Charter schools and the bottom seven were District school.
+
+About a third of students went to Charters while two thirds attend District
+
+The amount of money spent per student is negatively correlated with performance.
+
+The small and medium schools performed similarly and the large schools posted lower scores.
+
+Note: There is a slice error on two of the later data frames.  The tables still print and the numbers are good.  Will and I couldn't work out the issue. Please ask him any questions about this issue you have.
